@@ -156,6 +156,7 @@ input{
 }
 
 textarea{
+    color: white;
     background: none;
     padding: 30px 10px;
     margin: 10px 0;
